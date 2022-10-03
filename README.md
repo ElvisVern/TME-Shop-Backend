@@ -30,5 +30,5 @@ yarn build:prod
 
 + Restful API 接口风格
 
-### 后端的高并发高可用设计可查看[https://github.com/ElvisVern/shop-backend]
+#### 后端的高并发高可用设计可查看 [shop-backend](https://github.com/ElvisVern/shop-backend)
 
